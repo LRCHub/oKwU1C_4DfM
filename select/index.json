@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "氷菓",
+  "base_artist": "anewhite",
+  "createdAt": "2026-02-15T16:51:53.214864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "氷菓",
+      "artist": "CYNHN",
+      "has_synced": true,
+      "path": "select/01_氷菓_CYNHN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "氷菓",
+      "artist": "anewhite",
+      "has_synced": false,
+      "path": "select/pl_01_氷菓_anewhite.txt"
+    }
+  ]
+}
